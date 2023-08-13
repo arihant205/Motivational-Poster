@@ -1,0 +1,39 @@
+html{
+    font-size: medium;
+}
+body{
+    background-color: #E19898;
+    
+}
+.content{
+    margin:10% 20% 10% 20%;
+    width:60%;
+    height:40%;
+    text-align: center;
+    padding: 2%;
+    background-color: #9288F8;
+    border:2px solid #102C57;
+}
+#image{
+    width:60%;
+    height: 40%;
+    border:3px solid #FF90BB;
+    margin:10px 0px;
+    padding:10px 10px;
+}
+h2{ font-family: 'Caveat', cursive;
+    color:#1A5D1A;
+    background-color: white;
+}
+h3{
+    font-family:cursive;
+}
+#quote{
+    font-size: 1rem;
+    background-color: #FFD6A5;
+    color: #982176;
+}
+footer{
+    margin-left:2%;
+    font-size: 1rem;
+}
